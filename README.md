@@ -32,7 +32,7 @@ py cc.py
 ##### Choose option 2 to decode the sentence
 ##### Enter the sentence
 
-#### *Choose *OPTIONS 1 TO 3**
+### *Choose *OPTIONS 1 TO 3**
 
 ##### Choose *OPTION 1* to select a *SINGLE DECODING VALUE*
 ##### Choose *OPTION 2* to select a *RANGE* for decoding
