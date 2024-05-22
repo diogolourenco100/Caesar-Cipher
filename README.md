@@ -24,9 +24,9 @@ py cc.py
 ## How to use
 
 ### 1 - Encode
-###### Choose option 1 to encode the sentence
-###### Enter the sentence to encode
-###### Choose the encoding value
+##### Choose option 1 to encode the sentence
+##### Enter the sentence to encode
+##### Choose the encoding value
 
 ### 2 - Decode
 ##### Choose option 2 to decode the sentence
