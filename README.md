@@ -5,13 +5,13 @@
 Clone the project  
 
 ~~~bash  
-  git clone https://github.com/diogolourenco100/Caesar-Cipher
+git clone https://github.com/diogolourenco100/Caesar-Cipher
 ~~~
 
 Go to the project directory  
 
 ~~~bash  
-  cd Caesar-Cipher
+cd Caesar-Cipher
 ~~~
 
 Install dependencies  
