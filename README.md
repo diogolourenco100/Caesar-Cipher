@@ -34,6 +34,6 @@ py cc.py
 
 ### *Choose *OPTIONS 1 TO 3**
 
-##### Choose *OPTION 1* to select a *SINGLE DECODING VALUE*
-##### Choose *OPTION 2* to select a *RANGE* for decoding
-##### Choose *OPTION 3* to use *DEFAULT VALUES* from 1 to 26
+#### Choose *OPTION 1* to select a *SINGLE DECODING VALUE*
+#### Choose *OPTION 2* to select a *RANGE* for decoding
+#### Choose *OPTION 3* to use *DEFAULT VALUES* from 1 to 26
